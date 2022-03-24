@@ -4,5 +4,5 @@ This repository contains a collection of data science projects that I'am studyin
 
 Project      | Description
 ----------   | -----------
-[Writing Functions for Product Analysis](writing-functions-for-product-analysis) | Use coding best practices and functions to improve a script!
+[Writing Functions for Product Analysis](Writing%20Functions%20for%20Product%20Analysis) | Use coding best practices and functions to improve a script!
 
