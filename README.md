@@ -9,16 +9,15 @@ Project      | Description
 [Data Manipulation with Pandas](Data%20Manipulation%20with%20Pandas) | How to manipulate DataFrames with Pandas, as you extract, filter, and transform real-world datasets for analysis.
 [Investigating Netflix Movies and Guest Stars in The Office](Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office) | Apply the foundational Python skills by manipulating and visualizing movie and TV data.
 
-Cheat Sheets |
-----------   |
-[Data Science Cheat Sheet for Business Leaders](cheat-sheets/data-science-cheat-sheet-for-business-leaders.pdf) |
-[Data Wrangling in Pandas Cheat Sheet](cheat-sheets/data-wrangling-in-pandas-cheat-sheet.pdf) |
-[Importing Data Cheat Sheet](cheat-sheets/importing-data-cheat-sheet.pdf) |
-[Matplotlib Cheat Sheet](cheat-sheets/matplotlib-cheat-sheet.pdf) |
-[NumPy Cheat Sheet](cheat-sheets/numpy-cheat-sheet.pdf) |
-[Pandas Basics Cheat Sheet](cheat-sheets/pandas-basic-cheat-sheet.pdf) |
-[PySpark RDD Cheat Sheet](cheat-sheets/pyspark-rdd-cheat-sheet.pdf) |
-[PySpark SQL Cheat Sheet](cheat-sheets/pyspark-sql-basics-cheat-sheet.pdf) |
-[Python Basics Cheat Sheet](cheat-sheets/python-basics-cheat-sheet.pdf) |
-[Scikit-Learn Cheat Sheet](cheat-sheets/scikit-learn-cheat-sheet.pdf) |
-[Seaborn Cheat Sheet](cheat-sheets/seaborn-cheat-sheet.pdf) |
+## [Cheat Sheets](cheat-sheets) 
+- [Data Science Cheat Sheet for Business Leaders](cheat-sheets/data-science-cheat-sheet-for-business-leaders.pdf) 
+- [Data Wrangling in Pandas Cheat Sheet](cheat-sheets/data-wrangling-in-pandas-cheat-sheet.pdf) 
+- [Importing Data Cheat Sheet](cheat-sheets/importing-data-cheat-sheet.pdf) 
+- [Matplotlib Cheat Sheet](cheat-sheets/matplotlib-cheat-sheet.pdf) 
+- [NumPy Cheat Sheet](cheat-sheets/numpy-cheat-sheet.pdf) 
+- [Pandas Basics Cheat Sheet](cheat-sheets/pandas-basic-cheat-sheet.pdf) 
+- [PySpark RDD Cheat Sheet](cheat-sheets/pyspark-rdd-cheat-sheet.pdf) 
+- [PySpark SQL Cheat Sheet](cheat-sheets/pyspark-sql-basics-cheat-sheet.pdf) 
+- [Python Basics Cheat Sheet](cheat-sheets/python-basics-cheat-sheet.pdf) 
+- [Scikit-Learn Cheat Sheet](cheat-sheets/scikit-learn-cheat-sheet.pdf) 
+- [Seaborn Cheat Sheet](cheat-sheets/seaborn-cheat-sheet.pdf) 
