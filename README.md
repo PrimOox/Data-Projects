@@ -2,14 +2,14 @@
 
 This repository contains a collection of data science projects and templates that I use to study and improve my skills from [DataCamp](https://www.datacamp.com/profile/primosource).  
 
-Project      | Description
-----------   | -----------
+Project Name     | Description
+----------       | -----------
 [Writing Functions for Product Analysis](Writing%20Functions%20for%20Product%20Analysis) | Use coding best practices and functions to improve a script!
 [Amazon S3 Bucket Connection](Amazon%20S3%20Bucket%20Connection) | Connect to files stored in an AWS S3 bucket using the Workspace integrations.
 [Data Manipulation with Pandas](Data%20Manipulation%20with%20Pandas) | How to manipulate DataFrames with Pandas, as you extract, filter, and transform real-world datasets for analysis.
+[Exploring the Bitcoin Cryptocurrency Market](Exploring%20the%20Bitcoin%20Cryptocurrency%20Market) | Explore the market capitalization of Bitcoin and other cryptocurrencies.
 [Investigating Netflix Movies and Guest Stars in The Office](Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office) | Apply the foundational Python skills by manipulating and visualizing movie and TV data.
 [The GitHub History of the Scala Language](The%20GitHub%20History%20of%20the%20Scala%20Language) | Find the true Scala experts by exploring its development history in Git and GitHub.
-
 
 ## [Cheat Sheets](cheat-sheets) 
 - [Data Science Cheat Sheet for Business Leaders](cheat-sheets/data-science-cheat-sheet-for-business-leaders.pdf) 
