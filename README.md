@@ -10,6 +10,7 @@ Project Name     | Description
 [Exploring the Bitcoin Cryptocurrency Market](Exploring%20the%20Bitcoin%20Cryptocurrency%20Market) | Explore the market capitalization of Bitcoin and other cryptocurrencies.
 [Investigating Netflix Movies and Guest Stars in The Office](Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office) | Apply the foundational Python skills by manipulating and visualizing movie and TV data.
 [The GitHub History of the Scala Language](The%20GitHub%20History%20of%20the%20Scala%20Language) | Find the true Scala experts by exploring its development history in Git and GitHub.
+[The Android App Market on Google Play](The%20Android%20App%20Market%20on%20Google%20Play) | Load, clean, and visualize scraped Google Play Store data to gain insights into the Android app market.
 
 ## [Cheat Sheets](cheat-sheets) 
 - [Data Science Cheat Sheet for Business Leaders](cheat-sheets/data-science-cheat-sheet-for-business-leaders.pdf) 
